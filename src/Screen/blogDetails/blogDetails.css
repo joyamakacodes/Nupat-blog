@@ -1,0 +1,17 @@
+
+.blogDetails{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+
+}
+
+.blogDetailsImg{
+height: 70vh;
+border-radius: 10px;
+}
+.blogDetailsPara{
+  width: 70%;
+}

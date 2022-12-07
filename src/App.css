@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #131e47;
+}
+body{
+  color: #131e47;
+}
+.blogHeading{
+  color: #131e47;
+  text-align: center;
+  line-height: 40px;
+}
+.home{
+  padding: 30px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 40px;
+  
+}
